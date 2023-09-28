@@ -6,7 +6,9 @@ The Retail Business Performance project in Power BI is designed to provide compr
 
 Key Highlights - 
 • Visualize sales trends over time using line and bar charts.
+
 • Analyze product performance with drill-down capabilities.
+
 • Provide a year-over-year comparison of revenue and profit.
 
 
@@ -16,9 +18,13 @@ The Retail Sales Dashboard in Power BI is a dynamic tool for retail managers and
 
 Key Highlights - 
 • Sales by Countries Served: Visualize sales performance across different countries or regions where the business operates. Identify top-performing and emerging markets, enabling strategic expansion decisions.
+
 • Key Performance Indicators (KPIs): Track essential metrics such as sales revenue, profit margins, customer acquisition cost, and customer retention rates. Gain a holistic view of the business's health and identify areas for improvement.
+
 • Quantity Sold by Region: Analyze the quantity of products sold in different geographic regions. Identify trends in product demand and tailor marketing and inventory strategies accordingly.
+
 • Total Orders by Quarter: Monitor order volumes on a quarterly basis to identify seasonal sales trends and optimize inventory management and staffing levels.
+
 • Shipping Mode Analysis: Understand the impact of shipping methods on sales and customer satisfaction. Evaluate the cost-effectiveness and speed of different shipping modes to enhance logistics decisions.
 
 
@@ -28,6 +34,8 @@ The Income Statement Dashboard for Yearly Financial Comparison in Power BI is a 
 
 Key Highlights - 
 • Division-wise Analysis: Gain granular insights into the financial performance of different divisions or segments of the business. Compare revenues, expenses, and profit margins across divisions to identify areas of strength and opportunities for improvement.
+
 • Month-wise Comparison: Explore how financial performance fluctuates month by month. Identify seasonal trends, revenue peaks, and expense patterns to inform budgeting and resource allocation decisions.
+
 • Comparison of Income Statements: This dashboard provides a side-by-side comparison of the income statement for the current year and the previous year. Key financial metrics, such as revenue, expenses, gross profit, and net profit, are presented in an easily digestible format. Percentage variances between the two years are calculated and displayed, highlighting areas of significant change.
 
