@@ -1,5 +1,7 @@
 # PowerBI_Projects
 
+https://www.novypro.com/profile_projects/roopalisudra
+
 ## 1. Retail Business Performance Dashboard
 Description - 
 The Retail Business Performance project in Power BI is designed to provide comprehensive insights into the performance of a retail business. This interactive dashboard allows stakeholders to visualize key performance indicators (KPIs), track sales trends, and make data-driven decisions.
