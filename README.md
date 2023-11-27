@@ -33,3 +33,16 @@ Key Highlights -
 2. Month-wise Comparison: Explore how financial performance fluctuates month by month. Identify seasonal trends, revenue peaks, and expense patterns to inform budgeting and resource allocation decisions.
 3. Comparison of Income Statements: This dashboard provides a side-by-side comparison of the income statement for the current year and the previous year. Key financial metrics, such as revenue, expenses, gross profit, and net profit, are presented in an easily digestible format. Percentage variances between the two years are calculated and displayed, highlighting areas of significant change.
 
+## 4. Clinical Analytics Dashboard 
+
+Description:
+This comprehensive healthcare data project involved cleaning and analyzing patient records, enabling the creation of a powerful Power BI dashboard. The data was meticulously processed, ensuring accuracy and consistency. The resulting dashboard offers stakeholders insightful visualizations, including patient demographics, treatment details, and financial metrics, facilitating informed decision-making in healthcare management.
+
+Key Highlights - 
+1. Thorough data cleaning for accuracy.
+2. Advanced Power BI dashboard creation.
+3. Visualizations for patient demographics, treatment details, and financial metrics.
+4. Enhanced decision-making in healthcare management.
+
+## 5. 
+
