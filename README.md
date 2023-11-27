@@ -33,9 +33,9 @@ Key Highlights -
 2. Month-wise Comparison: Explore how financial performance fluctuates month by month. Identify seasonal trends, revenue peaks, and expense patterns to inform budgeting and resource allocation decisions.
 3. Comparison of Income Statements: This dashboard provides a side-by-side comparison of the income statement for the current year and the previous year. Key financial metrics, such as revenue, expenses, gross profit, and net profit, are presented in an easily digestible format. Percentage variances between the two years are calculated and displayed, highlighting areas of significant change.
 
-## 4. Clinical Analytics Dashboard 
+## 4. Medical Data Dashboard 
 
-Description:
+Description - 
 This comprehensive healthcare data project involved cleaning and analyzing patient records, enabling the creation of a powerful Power BI dashboard. The data was meticulously processed, ensuring accuracy and consistency. The resulting dashboard offers stakeholders insightful visualizations, including patient demographics, treatment details, and financial metrics, facilitating informed decision-making in healthcare management.
 
 Key Highlights - 
@@ -44,5 +44,14 @@ Key Highlights -
 3. Visualizations for patient demographics, treatment details, and financial metrics.
 4. Enhanced decision-making in healthcare management.
 
-## 5. 
+## 5. Call Center Dashboard 
 
+Description:
+This project that delves into the intricate details of call centre interactions. Leveraging Power BI, it offers a comprehensive view of customer behavior, call patterns, and service efficiency. The insights gained empower strategic decision-making, facilitating improvements in customer experience and operational effectiveness.
+
+Key Highlights:
+1. In-depth trend analysis of call centre interactions.
+2. Utilization of Power BI for comprehensive data visualization.
+3. Insights into customer behavior and call patterns.
+4. Strategic decision-making for enhanced customer experience.
+5. Operational improvements through data-driven analytics.
